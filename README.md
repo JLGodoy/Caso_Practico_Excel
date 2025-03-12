@@ -85,13 +85,16 @@ Respecto a las categorias, en términos generales las categorías más populares
    3. Bakery
    4. Drinking Chocolate
    5. Flavours
+
 Mientras los menos vendidos son:
    1. Packaged Chocolate
    2. Branded
    3. Loose Tea
    4. Coffee beans
    5. Flavours
-Conforma al análisis realizado a las categorías vendidas, se aconseja tomar medidas precautorias con el desarrollo de productos de Branding. Si lo que se pretende es incrementar la presencia de la marca en esta categoría, una sugerencia es el rediseño de los productos de branding, así como la fabricación de una menor cantidad de los mismos. Otra acción sugerida es la incorporación de nuevos productos de branding, como pueden ser termos o vasos cafeteros, que permitan a los clientes la opción de portabilidad de las bebidas preparadas en las tiendas. En la sección de *Packaged Chocolate*, los productos *Dark Chocolate* y *Chilli Maya* son productos muy poco solicitados, por lo cual se recomienda su reemplazo del menú. Es recomendable la utilización de una encuesta del mercado para la sustitución de estos productos.
+
+
+Conforme al análisis realizado a las categorías vendidas, se aconseja tomar medidas precautorias con el desarrollo de productos de Branding. Si lo que se pretende es incrementar la presencia de la marca en esta categoría, una sugerencia es el rediseño de los productos de branding, así como la fabricación de una menor cantidad de los mismos. Otra acción sugerida es la incorporación de nuevos productos de branding, como pueden ser termos o vasos cafeteros, que permitan a los clientes la opción de portabilidad de las bebidas preparadas en las tiendas. En la sección de *Packaged Chocolate*, los productos *Dark Chocolate* y *Chilli Maya* son productos muy poco solicitados, por lo cual se recomienda su reemplazo del menú. Es recomendable la utilización de una encuesta del mercado para la sustitución de estos productos.
 
 
 
