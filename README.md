@@ -32,10 +32,77 @@ Para la primera sección se nos solicita las respuestas a las siguientes pregunt
 
 Los productos más vendidos fueron:
 
-  1. Chocolate Croissant 3076 
-  2. Earl Grey Rg  3053       
-  3. Dark chocolate Lg   Morning 3029 
-  4. Sunrise Chai Rg 3026 
-  5. Columbian Medium Roast Rg 3013
+  1. Chocolate Croissant con 3076 unidades vendidas.
+  2. Earl Grey Rg  vendiendo 3053 unidades.
+  3. Dark chocolate Lg   Morning con 3029 unidades vendidas
+  4. Sunrise Chai Rg con 3026 unidades
+  5. Columbian Medium Roast Rg con 3013 unidades.
+
+## Analisis
+
+Para comenzar el análisis se tomó la decisión de buscar los productos que tienen menores ventas, ya que son los productos que son menos recibidos por el mercado. Los resultados fueron los siguientes:
+
+Los cinco productos menos vendidos entre todas las tiendas son:
+1. Dark chocolate
+2. Spicy Eye Opener Chai
+3. Guatemalan Sustainably Grown
+4. Earl Grey
+5. Jamacian Coffee River
+
+Según el análisis, con base en su total vendido en el periodo abarcado, las tiendas se ordenan de la siguiente forma:
+1. Hell's Kitchen con 236,511.2 dolares vendidos.
+2. Astoria con 232,243.9 dolares vendidos.
+3. Lower Manhattan con 230057.2 dolares vendidos.
+
+Los productos menos vendidos por cada tienda son:
+
+1.Hell's Kitchen:
+   1. I Need My Bean! T-shirt 
+   2. I Need My Bean! Diner mug     
+   3. Spicy Eye Opener Chai        
+   4. Serenity Green Tea
+   5. English Breakfast
+
+2.Astoria
+   1. Dark chocolate
+   2. Earl Grey
+   3. Traditional Blend Chai
+   4. Spicy Eye Opener Chai
+   5. Guatemalan Sustainably Grown
+
+3.Lower Manhattan
+   1. Lemon Grass
+   2. Primo Espresso Roast
+   3. Guatemalan Sustainably Grown
+   4. Columbian Medium Roast
+   5. Peppermint
+
+Un detalle importante que me gustaría resaltar es que, si buscamos los productos menos vendidos a nivel general, la sucursal de Hell's Kitchen es la que más ventas ha tenido de los mismos, con excepción de *Spicy Eye Opener Chai*, sin embargo, los productos de branding son los menos vendidos en esta sucursal, cosa que no sucede con las otras sucursales. El producto *Spicy Eye Opener Chai* esta en los primeros lugares de productos menos vendidos en las dos sucursales que mayores ingresos generan, por lo cual se considera un producto con altas posibilidades de ser reemplazado o removido del menú. A pesar de ser la sucursal que menos ventas ha tenido,  Lower Manhattan es la segunda sucursal que màs ha crecido a lo largo del periodo analizado, solo superada por Hell's Kitchen, que es la sucursal que más ventas registra. 
+
+Respecto a las categorias, en términos generales las categorías más populares son: 
+   1. Coffee
+   2. Tea
+   3. Bakery
+   4. Drinking Chocolate
+   5. Flavours
+Mientras los menos vendidos son:
+   1. Packaged Chocolate
+   2. Branded
+   3. Loose Tea
+   4. Coffee beans
+   5. Flavours
+Conforma al análisis realizado a las categorías vendidas, se aconseja tomar medidas precautorias con el desarrollo de productos de Branding. Si lo que se pretende es incrementar la presencia de la marca en esta categoría, una sugerencia es el rediseño de los productos de branding, así como la fabricación de una menor cantidad de los mismos. Otra acción sugerida es la incorporación de nuevos productos de branding, como pueden ser termos o vasos cafeteros, que permitan a los clientes la opción de portabilidad de las bebidas preparadas en las tiendas. En la sección de *Packaged Chocolate*, los productos *Dark Chocolate* y *Chilli Maya* son productos muy poco solicitados, por lo cual se recomienda su reemplazo del menú. Es recomendable la utilización de una encuesta del mercado para la sustitución de estos productos.
+
+
+
+
+
+
+
+
+    
+
+
+
 
 
